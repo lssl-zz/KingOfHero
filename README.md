@@ -4,6 +4,7 @@
 
 ## 1.스테이지
 ![Y 소팅](https://user-images.githubusercontent.com/12422388/150930739-e655fa1a-588e-46c1-b608-3045cc94ee94.gif)<br>
+- 조이스틱을 이용하여 캐릭터를 이동합니다.
 - SprieRenderer Order값을 이용하여 소팅처리를 하였습니다.
 <br />
 
